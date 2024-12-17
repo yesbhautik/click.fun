@@ -5,6 +5,12 @@ A Windows desktop application that tracks mouse clicks and keyboard presses, wit
 ## Status
 Initial build is DONE and running smoothly on the local! But the MongoDB connections and sync? Totally mashed up 😅🚧 I'll fix it when I get some time. But hey, y'all feel free to drop a PR! 🙌
 
+## Why Did I Make This?
+
+I've noticed that many developers and tech enthusiasts showcase their coding time, stats, matrices, and even Spotify activity. But why not share the total key & click count? That's the main thing! 😆 I tried to find a tool like this, but nothing fit what I had in mind.
+
+If the open-source community is ready to flex their fingers, then let's create apps for Mac, Windows, and Android as well. 👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻 Oh, are you typing like this? Haha! 👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻
+
 ## Features
 
 - Real-time tracking of mouse clicks and keyboard presses

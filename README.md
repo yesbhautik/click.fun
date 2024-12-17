@@ -2,6 +2,9 @@
 
 A Windows desktop application that tracks mouse clicks and keyboard presses, with real-time synchronization to a MongoDB database through a Node.js backend.
 
+## Status
+Initial build is DONE and running smoothly on the local! But the MongoDB connections and sync? Totally mashed up 😅🚧 I'll fix it when I get some time. But hey, y'all feel free to drop a PR! 🙌
+
 ## Features
 
 - Real-time tracking of mouse clicks and keyboard presses
